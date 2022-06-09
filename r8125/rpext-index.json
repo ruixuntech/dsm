@@ -10,6 +10,7 @@
   },
   "releases": {
     "ds918p_42218": "https://github.com/ruixuntech/dsm/raw/main/r8125/releases/ds918p_42218.json",
-    "ds918p_42621": "https://github.com/ruixuntech/dsm/raw/main/r8125/releases/ds918p_42218.json"
+    "ds918p_42621": "https://github.com/ruixuntech/dsm/raw/main/r8125/releases/ds918p_42218.json",
+    "ds920p_42218": "https://github.com/ruixuntech/dsm/raw/main/r8125/releases/ds920p_42218.json",
   }
 }
