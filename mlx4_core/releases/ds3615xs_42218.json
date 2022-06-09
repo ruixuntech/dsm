@@ -4,20 +4,14 @@
   "files": [
     {
       "name": "mlx4_core-3.10.108.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/mlx4_core-3.10.108.tgz",
+      "url": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/mlx4_core-3.10.108.tgz",
       "sha256": "baafe059c85d2b75ff69307fb3fa98ada2c090ccd1c483e660eecead66032732",
       "packed": true
     },
     {
       "name": "check-mlx4_core.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/src/check-mlx4_core.sh",
-      "sha256": "79105bd32ada068b12121a1da888115e0b2b22a1942f614a31ab32566bdea779",
-      "packed": false
-    },
-    {
-      "name": "on_os_load_mlx4_core.sh",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/src/on_os_load_mlx4_core.sh",
-      "sha256": "71c20b04a708e9811dc0dd4bce1ec8ae31d50e5f688a230d32ba24073ed2cffa",
+      "url": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/src/check-mlx4_core.sh",
+      "sha256": "7a0e8596cfcbe7f85bbc6e3733b576e81f8330dbf3dbd60870edbbd91e2afccc",
       "packed": false
     }
   ],
@@ -28,8 +22,7 @@
   },
 
     "scripts": {
-    "on_boot": "check-mlx4_core.sh",
-    "on_os_load": "on_os_load_mlx4_core.sh"
+    "on_boot": "check-mlx4_core.sh"
   }
 
 }
