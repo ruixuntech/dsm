@@ -5,7 +5,7 @@
     "name": "mlx4_core",
     "description": "Adds  Support",
     "author_url": "https://github.com/ruixuntech",
-    "packer_url": "https://github.com/ruixuntech/rp-ext/tree/main/mlx4_core",
+    "packer_url": "https://github.com/ruixuntech/dsm/tree/main/mlx4_core",
     "help_url": "<todo>"
   },
   "releases": {
