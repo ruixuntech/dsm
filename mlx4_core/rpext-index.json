@@ -1,6 +1,6 @@
 {
   "id": "ruixuntech.mlx4_core",
-  "url": "https://github.com/ruixuntech/rp-ext/raw/main/mlx4_core/rpext-index.json",
+  "url": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/rpext-index.json",
   "info": {
     "name": "mlx4_core",
     "description": "Adds  Support",
@@ -28,11 +28,11 @@
     "dva3221_42661": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/releases/dva3221_42218.json",
     "ds918p_25556": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds918p_25556.json",
     "ds918p_41890": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds918p_41890.json",
-    "ds918p_42218": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
-    "ds918p_42621": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
-    "ds918p_42661": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds918p_42218.json",
-    "ds920p_42621": "https://raw.githubusercontent.com/ruixuntech/rp-ext/master/mlx4_core/releases/ds920p_42218.json",
-"ds920p_42218": "https://github.com/ruixuntech/rp-ext/raw/main/mlx4_core/releases/ds920p_42218.json",
-    "ds920p_42661": "https://github.com/ruixuntech/rp-ext/raw/main/mlx4_core/releases/ds920p_42218.json"
+    "ds918p_42218": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json",
+    "ds918p_42621": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json",
+    "ds918p_42661": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42621": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json",
+"ds920p_42218": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json",
+    "ds920p_42661": "https://github.com/ruixuntech/dsm/raw/main/mlx4_core/releases/ds918p_42218.json"
   }
 }
